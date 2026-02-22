@@ -1,5 +1,5 @@
 /**
- * UC2 - Print OOPS in Banner Format
+ * UC3 - OOPS Banner Appliction (Use Case 3)
  *
  * @author Shreya
  * @version 2.0
