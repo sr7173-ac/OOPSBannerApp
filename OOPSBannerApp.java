@@ -1,5 +1,5 @@
 /**
- * UC4 - Use Arrays and Looping
+ * UC4 - Render OOPS Banner using String Array and loop
  *
  * @author Shreya
  * @version 2.0
@@ -18,8 +18,8 @@ public class OOPSBannerApp {
         lines[5] = String.join(""," **  ** "," **  ** ", " **     ", " **  ** ");
         lines[6] = String.join("","  ****  ","  ****  ", " **     ", "  **** ");
 
-for (String line : lines) {
-    System.out.println(line);
-}
-}
+        for (String line : lines) {
+            System.out.println(line);
+        }
+    }
 }
